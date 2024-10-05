@@ -1,9 +1,9 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnjd5xma259x5nv15"
-#EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="Aztecauno" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Local",Aztecauno
-https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="Local",Las Estrellas
 http://cdn1host.online:2999/live/carlosbermudez/oZLRHZHL0z/1457.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="" group-title="(no group)",Canal 5
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_plus-mediano.png" group-title="Cine",Multimedios Plus
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="Aztecauno" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Local",Aztecauno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
