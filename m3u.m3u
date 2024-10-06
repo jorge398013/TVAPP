@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png" group-title="Local",Canal 5
+#EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png" group-title="Local",Canal 5
 http://cdn1host.online:2999/live/carlosbermudez/oZLRHZHL0z/1457.m3u8
-#EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="TV SPORTS" tvg-logo="https://n9.cl/winmas_emv" group-title="TV SPORTS",WIN SPORTS +
-http://5tgvb.art:2052/sebasViLgarc/TLxc8mf4QRKu/128669
