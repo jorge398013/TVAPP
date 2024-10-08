@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey865zdcq67w4yg1v"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/jorge398013/TVAPP/refs/heads/main/channels.xml"
 #EXTINF:-1 tvg-id="Aztecauno.mx" tvg-name="Aztecauno" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116153_dark_360w_270h.png" group-title="Local",Aztecauno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116151_dark_360w_270h.png" group-title="Local",Las Estrellas
