@@ -8,7 +8,7 @@ http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscape
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116154_dark_360w_270h.png" group-title="Local",Azteca 7
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s116152_dark_360w_270h.png" group-title="Local",Canal 5
-http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+http://home-playtv.com:8080/live/KONE/SVVVR/241991.m3u8
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104743_dark_360w_270h.png" group-title="Local",Cinemax
 https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4
 #EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="Disney Junior" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Local",Disney Junior
