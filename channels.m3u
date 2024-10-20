@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="mx#azteca-13" tvg-name="Azteca Uno" tvg-logo="" group-title="",Azteca Uno
+#EXTINF:-1 tvg-id="mx#azteca-13" tvg-name="Azteca Uno" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_uno-mediano.png" group-title="Local",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
-#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="" group-title="",Azteca 7
+#EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png" group-title="Local",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
-#EXTINF:-1 tvg-id="mx#proyecto-40" tvg-name="ADN 40" tvg-logo="" group-title="",ADN40
+#EXTINF:-1 tvg-id="mx#proyecto-40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40-mediano.png" group-title="Local",ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
