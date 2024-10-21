@@ -5,6 +5,8 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 http://cdn1host.online:2999/live/carlosbermudez/oZLRHZHL0z/3.m3u8
 #EXTINF:-1 tvg-id="Canal5.mx" tvg-name="Canal 5" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/5_de_mexico-mediano.png" group-title="Local",Canal 5
 http://cdn1host.online:2999/live/carlosbermudez/oZLRHZHL0z/1457.m3u8
+#EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/multimedios_plus-mediano.png" group-title="Local",Multimedios Plus
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/azteca_7-mediano.png" group-title="Local",Azteca 7
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="mx#proyecto-40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40-mediano.png" group-title="Local",ADN 40
