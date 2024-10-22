@@ -12,27 +12,24 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Canal22.mx" tvg-name="Canal 22" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/22_de_mexico-mediano.png" group-title="Local",Canal 22
 https://vod.cf.dmcdn.net/sec2(F32kkKu6d8V7tpOT9FT2yvUQxwIMSK5yT6-c6flu5R9jALfP434EiNvB-TCbAIwk4zd-fgnWLHb_JreJT8IhYVi37M9X4K7YjvP8r72YqS2BPZ9JY4wPOIiC-tzKwNfJde97jv5IeHnPo2mTk9mhnB-KgI0V7gLOxEm2KGTyU-0obeUkCXikeOLS-uqqvUKA)/video/056/188/556881650_mp4_h264_aac_hd_2.m3u8
 #EXTINF:-1 tvg-id="TVMexiquense.mx" tvg-name="TV Mexiquense" tvg-logo="" group-title="Local",TV Mexiquense
+https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" tvg-logo="" group-title="Local",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="MultimediosPlus.mx" tvg-name="Multimedios Plus" tvg-logo="" group-title="Local",Multimedios Plus
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e91fd6208700008dcaf7blivestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal 14" tvg-logo="" group-title="Local",Canal 14
+https://s5.mexside.net:1936/canal14/canal14/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaldelCongreso.mx" tvg-name="Canaldel Congreso" tvg-logo="" group-title="Local",Canaldel Congreso
+https://edgeplay.canaldelcongreso.gob.mx/live_sd1/smil:canal-sd1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="" group-title="Local",Justicia TV
+https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTV.mx" tvg-name="Milenio TV" tvg-logo="" group-title="Local",Milenio TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="" group-title="Local",MVSTV
+https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1 tvg-id="Once.mx" tvg-name="Once" tvg-logo="" group-title="Local",Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 #EXTINF:-1 tvg-id="PresumiendoMexicoTelevision.mx" tvg-name="Presumiendo Mexico" tvg-logo="" group-title="Local",Presumiendo Mexico
-#EXTINF:-1 tvg-id="XHRCGDELAY.mx" tvg-name="RCG Coahuila" tvg-logo="" group-title="Local",RCG Coahuila
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
