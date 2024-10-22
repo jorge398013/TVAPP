@@ -9,3 +9,7 @@ http://cdn1host.online:2999/live/carlosbermudez/oZLRHZHL0z/1457.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-id="mx#proyecto-40" tvg-name="ADN 40" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/adn_40-mediano.png" group-title="Local",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+#EXTINF:-1 tvg-id="Canal22MetropolitanayNacional.mx" tvg-name="Canal 22" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/22_de_mexico-mediano.png" group-title="Local",Canal 22
+https://vod.cf.dmcdn.net/sec2(F32kkKu6d8V7tpOT9FT2yvUQxwIMSK5yT6-c6flu5R9jALfP434EiNvB-TCbAIwk4zd-fgnWLHb_JreJT8IhYVi37M9X4K7YjvP8r72YqS2BPZ9JY4wPOIiC-tzKwNfJde97jv5IeHnPo2mTk9mhnB-KgI0V7gLOxEm2KGTyU-0obeUkCXikeOLS-uqqvUKA)/video/056/188/556881650_mp4_h264_aac_hd_2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
