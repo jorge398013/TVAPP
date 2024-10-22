@@ -27,9 +27,9 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/652e922db4b047000825f975livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="mx#history" tvg-name="MVSTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi3RjoXIdSonP8H0UC-pLx6ursXk6gcBzLvQ&s" group-title="Local",MVSTV
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
-#EXTINF:-1 tvg-id="mx#warner" tvg-name="Once" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/once_tv_mexico-mediano.png" group-title="Local",Once
+#EXTINF:-1 tvg-id="DisneyChannelNorth.us" tvg-name="Once" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/once_tv_mexico-mediano.png" group-title="Local",Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PresumiendoMexicoTelevision.mx" tvg-name="Presumiendo Mexico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTDmbAoSaKm2Tgr4C3P58gO4c4qLZ2eak3g&s" group-title="Local",Presumiendo Mexico
+#EXTINF:-1 tvg-id="ElNu9ve.mx" tvg-name="Presumiendo Mexico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrTDmbAoSaKm2Tgr4C3P58gO4c4qLZ2eak3g&s" group-title="Local",Presumiendo Mexico
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Local",
